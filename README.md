@@ -1,6 +1,6 @@
 # React-pages
 
-Empty project template is in: 'my react template page' \n
+Empty project template is in: 'my react template page' <\n>
   Download the files,
   Open the folder in terminal and type:
     npm install // installs all items from package.json
