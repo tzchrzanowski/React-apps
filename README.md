@@ -1,4 +1,4 @@
-# React-pages
+## React-pages
 
 #### Empty project template is in: 'my react template page'
 #### Download the files,
