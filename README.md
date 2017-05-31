@@ -1,6 +1,14 @@
-# react-drift
+Slider images 
 
-Example app for React Component styling
+## Install
+npm install
+
+
+## Run
+```
+npm start
+open http://localhost:3000
+```
 
 ## Styling methods
 
@@ -8,19 +16,3 @@ Example app for React Component styling
 - Radium
 - External CSS
 - CSS modules
-
-## Install
-
-```
-git clone git@github.com:jaketrent/react-drift.git
-npm install
-```
-
-## Run
-
-```
-npm start
-open http://localhost:3000
-```
-
-Includes only dev environment build target.
