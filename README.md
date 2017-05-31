@@ -7,4 +7,5 @@
 ##### npm start -s // runs the app in browser on port http://localhost:3000
 
 #### Current Projects:
-##### Simple list of items | https://github.com/tzchrzanowski/React-pages/tree/simple-list
+##### Simple list of items |  https://github.com/tzchrzanowski/React-pages/tree/simple-list
+##### Images Slider |  https://github.com/tzchrzanowski/React-apps/tree/images-slider
