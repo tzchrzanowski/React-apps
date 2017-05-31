@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaketrent/react-drift.git"
+    "url": ""
   },
   "keywords": [
     "react",
@@ -16,16 +16,16 @@
     "slider",
     "css"
   ],
-  "author": "jaketrent",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaketrent/react-drift/issues"
+    "url": ""
   },
   "engines": {
     "node": ">= 5.0.0",
     "npm": ">= 3.3.6"
   },
-  "homepage": "https://github.com/jaketrent/react-drift#readme",
+  "homepage": "",
   "devDependencies": {
     "autobind-decorator": "1.2.0",
     "babel-core": "5.8.33",
